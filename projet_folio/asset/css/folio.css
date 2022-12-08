@@ -11,7 +11,14 @@
 }
 
 
-
+p{
+  color: red;
+  font-size: 32px;
+  font-family: Georgia,  serif;
+  font: bold;
+  font-style: oblique;
+  
+}
 
 header
 {
